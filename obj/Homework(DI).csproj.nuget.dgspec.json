@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sviat\\source\\repos\\Books\\Books.csproj": {}
+    "C:\\Users\\sviat\\source\\repos\\Books\\Homework(DI).csproj": {}
   },
   "projects": {
-    "C:\\Users\\sviat\\source\\repos\\Books\\Books.csproj": {
+    "C:\\Users\\sviat\\source\\repos\\Books\\Homework(DI).csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sviat\\source\\repos\\Books\\Books.csproj",
-        "projectName": "Books",
-        "projectPath": "C:\\Users\\sviat\\source\\repos\\Books\\Books.csproj",
+        "projectUniqueName": "C:\\Users\\sviat\\source\\repos\\Books\\Homework(DI).csproj",
+        "projectName": "Homework(DI)",
+        "projectPath": "C:\\Users\\sviat\\source\\repos\\Books\\Homework(DI).csproj",
         "packagesPath": "C:\\Users\\sviat\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\sviat\\source\\repos\\Books\\obj\\",
         "projectStyle": "PackageReference",
